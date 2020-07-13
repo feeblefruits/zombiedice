@@ -1,0 +1,10 @@
+README.md
+setup.cfg
+setup.py
+zombie_dice/__init__.py
+zombie_dice/zombie_dice.py
+zombie_dice.egg-info/PKG-INFO
+zombie_dice.egg-info/SOURCES.txt
+zombie_dice.egg-info/dependency_links.txt
+zombie_dice.egg-info/not-zip-safe
+zombie_dice.egg-info/top_level.txt
