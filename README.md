@@ -13,6 +13,12 @@ You can also analyse your results by checking out the logs of your rounds and ov
 
 The first player to reach a total of 13 points wins the game!
 
+### Initiate in terminal
+
+```
+pip install zombie-dice
+```
+
 ### Play example
 
 Install the dependencies and devDependencies and start the server.
