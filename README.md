@@ -25,8 +25,6 @@ pip install zombie-dice
 
 ### Play example
 
-Install the dependencies and devDependencies and start the server.
-
 ```
 import zombie_dice
 
