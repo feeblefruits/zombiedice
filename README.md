@@ -1,6 +1,6 @@
 # Zombie Dice
 
-This package is based on Zombie Dice - a popular dice-rolling, push-your-luck boardgame by Steven Jackson.
+This package is based on Zombie Dice - a popular dice-rolling, push-your-luck boardgame by Steve Jackson.
 
 By running a series of simple functions within a Python environment, you can push your luck to get the most BRAAAAIINS!! as possible.
 
@@ -12,6 +12,10 @@ You can also analyse your results by checking out the logs of your rounds and ov
 - STEP 4: Player can keep pick and roll untill the 13 dice are exhausted and the round finished or player can end the round when they feel like they've amounted enough points. Run end_round() to end the round and the next player can continue
 
 The first player to reach a total of 13 points wins the game!
+
+![zombiedice_pic](https://thebigbox.co.za/wp-content/uploads/2017/08/ZombieDice2.jpg)
+
+For a formal how-to-play guide, check out the [original website](http://www.sjgames.com/dice/zombiedice/) or [BGG here](https://boardgamegeek.com/boardgame/62871/zombie-dice).
 
 ### Initiate in terminal
 
