@@ -2,7 +2,7 @@
 
 This package is based on Zombie Dice - a popular dice-rolling, push-your-luck boardgame by Steve Jackson.
 
-By running a series of simple functions within a Python environment, you can push your luck to get the most BRAAAAIINS!! 🧠 as possible. At the same time you need to avoid shotgun blasts 💥 while pushing your luck whether to pursue survivors 👣
+By running a series of simple functions within a Python environment, you can push your luck to get the most BRAAAAIINS!! 🧠  as possible. At the same time you need to avoid shotgun blasts 💥  while pushing your luck whether to pursue survivors 👣
 
 You can also analyse your results by checking out the logs of your rounds and overall game.
 
