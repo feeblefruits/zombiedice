@@ -2,14 +2,14 @@
 
 This package is based on Zombie Dice - a popular dice-rolling, push-your-luck boardgame by Steve Jackson.
 
-By running a series of simple functions within a Python environment, you can push your luck to get the most BRAAAAIINS!! as possible.
+By running a series of simple functions within a Python environment, you can push your luck to get the most BRAAAAIINS!! 🧠 as possible. At the same time you need to avoid shotgun blasts 💥 while pushing your luck whether to pursue survivors 👣
 
 You can also analyse your results by checking out the logs of your rounds and overall game.
 
-- STEP 1: Once initialised, players are required to pick 3 dice from the bucket by running pick_dice()
-- STEP 2: After they've picked the dice with specific colours, players are required to roll the dice by running roll_dice()
+- STEP 1: Once initialised, players are required to pick 3 dice from the bucket by running ```pick_dice()```
+- STEP 2: After they've picked the dice with specific colours, players are required to roll the dice by running ```roll_dice()```
 - STEP 3: Player can pick more dice and re-roll if they choose to - remember footprints are included in the re-pick and re-throw, so keep in mind of the colours
-- STEP 4: Player can keep pick and roll untill the 13 dice are exhausted and the round finished or player can end the round when they feel like they've amounted enough points. Run end_round() to end the round and the next player can continue
+- STEP 4: Player can keep pick and roll untill the 13 dice are exhausted and the round finished or player can end the round when they feel like they've amounted enough points. Run ```end_round()``` to end the round and the next player can continue
 
 The first player to reach a total of 13 points wins the game!
 
